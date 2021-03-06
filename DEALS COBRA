@@ -1,4 +1,4 @@
-# Z-PHISHER
+# NEXPHISHER
 $apt update && apt upgrade
 
 $pkg install git
