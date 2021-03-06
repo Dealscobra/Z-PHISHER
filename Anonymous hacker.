@@ -1,7 +1,7 @@
 # Z-PHISHER
 $apt update && apt upgrade
 
-$pkg install got
+$pkg install git
 
 $pkg install python2
 
